@@ -1,0 +1,44 @@
+.index{
+  background-color:  rgb(17, 198, 183);
+}
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  padding: 20px;
+  color: rgb(248, 245, 247);
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+.content-list{
+  text-align: center;
+  background-color: rgb(17, 198, 183);
+  padding: 10px;
+}
+.newslist{
+  background-color: rgb(144, 240, 232);
+  color: rgb(30, 66, 54);
+  padding: 20px;
+  text-align: left;
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
